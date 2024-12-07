@@ -16,3 +16,12 @@ Which TikTok influencer is the most effective at reaching their audience.
 
 # Prepare
 The public data used in this project can be found [here](https://www.kaggle.com/datasets/ramjasmaurya/top-1000-social-media-channels) 
+
+# Process
+
+### Documentation of any manipulation of the data
+1. downloaded dataset from Kaggle
+2. Unzipped the file to have csv files
+3. uploaded relevant data file into Google Sheets
+4. Formatted columns D through H as numbers
+5. Aligned columns D through H to the left for uniformity
