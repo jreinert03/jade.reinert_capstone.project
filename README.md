@@ -25,3 +25,6 @@ The public data used in this project can be found [here](https://www.kaggle.com/
 3. uploaded relevant data file into Google Sheets
 4. Formatted columns D through H as numbers
 5. Aligned columns D through H to the left for uniformity
+6. Make the columns into NUMERIC formats that are written in STRING
+
+
